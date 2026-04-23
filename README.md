@@ -19,12 +19,11 @@ Each script is structured around a specific analytical theme and follows best pr
 
 ## 🗂️ Folder Structure
 sql-data-analytics-project/
-│
-├── raw_data/          # Original datasets (CSV files)
-├── cleaned_data/      # Processed/cleaned datasets
-├── scripts/           # SQL scripts and queries
-├── reports/           # Output summaries or reports
-└── README.md
+raw_data/ - Original datasets (CSV files)
+cleaned_data/ - Processed/cleaned datasets
+scripts/ - SQL scripts and queries
+reports/ - Output summaries or reports
+README.md
 
 ## 🛡️ License
 
