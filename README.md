@@ -1,4 +1,4 @@
-# sql-data-analytics-project
+# Retail-Insights-Sql 
 
 A comprehensive collection of SQL scripts for data exploration, analytics, and reporting.
 
