@@ -31,4 +31,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🌟 About Me
 
-Hi there! I'm **Collins Odoh**, a Computer and Information Systems student with a background in cybersecurity and a strong interest in data analytics. I'm passionate about using SQL and data tools to turn raw data into meaningful insights — making analysis practical, clean, and easy to follow.
+Hi there! I’m Collins Odoh, a Computer and Information Systems student from BYU–Pathway Worldwide with a background in cybersecurity and an interest in data analytics. I use SQL and other data tools to work with data in a clear and structured way. I am currently developing my skills to apply data analytics to real-world problems and support better decision-making.
